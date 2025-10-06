@@ -8,7 +8,7 @@ question we are asking: Can large scale aggregates of review data predict critic
 
 1.) Build Movie histogram scraping script
 
-2.) Build Individual reviewer Histogram and detailed scraping script
+2.) Build Individual reviewer histogram and detailed scraping script
 
 3.) Build web navigating script, going from reviewer to reviewer, movie to movie etc.
 
